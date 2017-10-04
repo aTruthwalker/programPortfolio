@@ -1,0 +1,6 @@
+ This is a project where I and two others, (Turki Alhazzani and Turki Albawalwi),
+predicted what classes highschool students would be interested in based on class history and educational progress.
+
+I led this project and directed most of our efforts, as well as handled implementing specific features 
+such as designing and programming teh context-aware system--a system that takes into account
+a student's given interests and generates classes based on those interests. 

@@ -1,0 +1,19 @@
+This is an artifical intelligence project design to solve a sliding puzzle.
+
+example: 
+# 3, 2, "B"
+# 1, 7, 8
+# 6, 5, 4
+
+The above represents a puzzle.  The only legal moves are to "slide" pieces into the blank spot, ("B").
+
+Our desired state is
+# 1, 2, 3
+# 4, 5, 6
+# 7, 8, "B"
+
+We will attempt to find a series of moves from our starting state to the goal state through the 
+Breadth First Search Algorithm and the A* Algorithm.
+
+These are implemented via queues and the program will print a path to the desired state from each algorithm.
+Note that the A* algorithm does not guarantee an accurate path.

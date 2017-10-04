@@ -1,0 +1,5 @@
+The style of commenting used in this project was tailored to class objectives.
+
+In real world development, I believe it is better to write code with much less clutter,
+with its function apparent through the code itself, and with minimal design
+documents explaining the broad overview of the program along with any necessary details.
